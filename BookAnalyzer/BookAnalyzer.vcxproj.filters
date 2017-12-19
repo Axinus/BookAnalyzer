@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BookAnalyzer.cpp">
+    <ClCompile Include="BookAnalyzer.c">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
